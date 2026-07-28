@@ -11,9 +11,9 @@
 
 It delivers a modern and seamless user experience for discovering and exploring a wide variety of coffee products, with a strong focus on clean UI, performance, and best practices.
 
- ![Coffee Shop App Banner]( <img width="570" height="929" alt="Screenshot 2026-05-12 212036" src="https://github.com/user-attachments/assets/a9fdb648-9e60-4914-871c-0c21923fa90d" />
-)
+ [Coffee Shop App Banner](<img width="570" height="929" alt="Screenshot 2026-05-12 212036" src="https://github.com/user-attachments/assets/2a692b33-8383-46b8-b88e-cdbb5190fc8a" />
 
+)
 </div>
 
 ---
