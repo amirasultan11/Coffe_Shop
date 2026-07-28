@@ -1,16 +1,51 @@
-# coffe_shop
+☕ Coffee Shop App
+A beautifully designed and performant Coffee Shop mobile application built with Flutter. It delivers a modern and seamless user experience for discovering and exploring a wide variety of coffee products, with a strong focus on clean UI, performance, and best practices.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Key Features
+🔍 Discovery & Home
+Interactive coffee discovery screen
+Dynamic category tabs for filtering
+Detailed product grid and cards
+Beautiful coffee header and greetings
+Intuitive custom bottom navigation bar
+Modern search bar implementation
+🎨 Modern UI & Theme
+Custom typography using Google Fonts
+Extensive Core Theme setup (Colors, Text Styles)
+Fully responsive layouts for different screen sizes
+✨ Engaging Experience
+Smooth page transitions
+Clean, aesthetic, and professional design
+Optimized image loading and presentation
+🛠️ Tech Stack & Architecture
+Framework: Flutter (Dart)
+Architecture: Feature-Based Architecture (Core, Data & Presentation Layers)
+State Management: BLoC / Cubit (flutter_bloc)
+Design System: Custom theming and Google Fonts
+Icons: Cupertino Icons & Material Icons
+🏗️ Architectural Overview
+```
+project_root/
+│
+├── assets/
+│   └── images/            # App images & product assets
+│
+├── lib/
+│   ├── core/
+│   │   └── theme/         # App Colors, Text Styles, & App Themes
+│   │
+│   ├── features/
+│   │   └── discovery/
+│   │       ├── data/
+│   │       │   └── models/        # Coffee product models
+│   │       │
+│   │       └── presentation/
+│   │           ├── cubit/         # Discovery State Management (Cubit)
+│   │           ├── screens/       # Discovery Screen
+│   │           └── widgets/       # Reusable UI components (SearchBar, ProductGrid, etc.)
+│   │
+│   └── main.dart          # Entry point
+│
+├── pubspec.yaml
+└── README.md
+```
