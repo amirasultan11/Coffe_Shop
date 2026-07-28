@@ -4,6 +4,7 @@ A beautifully designed and performant Coffee Shop mobile application built with 
 It delivers a modern and seamless user experience for discovering and exploring a wide variety of coffee products, with a strong focus on clean UI, performance, and best practices
 
 ---
+<img width="570" height="929" alt="Screenshot 2026-05-12 212036" src="https://github.com/user-attachments/assets/9440a43e-1467-43c6-a325-5bd472f67b80" />
 
 ## 🚀 Key Features
 
